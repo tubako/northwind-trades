@@ -1,2 +1,2 @@
 # northwind-trades
-Mock data analysis to influence business decision. 
+Mock data analysis to influence a business decision. 
