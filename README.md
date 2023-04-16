@@ -124,10 +124,23 @@ LIMIT 5
  <img src="https://user-images.githubusercontent.com/70372302/232278702-54df5db6-48ba-49aa-8fe1-3169ef72b8a4.JPG">
 </p>
 
+### Results
+
 After further simplifying these two final tables, both are ready to be reported to the sales manager.
 
-<p>
- <img align="left" src="https://user-images.githubusercontent.com/70372302/232279030-6ab00e6f-d365-4deb-9f67-b5cb52183fa6.JPG">
-</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/70372302/232279036-c9e6cae5-5226-46b7-b957-73c6dceec81f.JPG">
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/70372302/232279030-6ab00e6f-d365-4deb-9f67-b5cb52183fa6.JPG">
+</p>
+<h5 align="center">Table 1: Three eligible employees</h5>
+
+According to the table on top, these three employees are eligible for the bonus: Steven Buchanan, Robert King and Margaret Peacock. 
+According to the table on the bottom, these five employees are eligible for the bonus: Steven Buchanan, Robert King, Margaret Peacock, Anne Dodsworth and Nancy Davolio. 
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/70372302/232280721-fbdda05e-2fd2-485b-8652-3a9d558296c7.JPG">
+</p>
+<h5 align="center">Table 2: Five eligible employees</h5>
+
+
